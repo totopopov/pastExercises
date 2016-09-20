@@ -17,9 +17,10 @@ namespace Exam1
             var kurs = double.Parse(Console.ReadLine());
 
 
-            Console.WriteLine("{0:f2}",(workdays*money*14.5*0.75*kurs)/365); insufficient funds, try adding some extra money 
 
+            Console.WriteLine("{0:f2}",(workdays*money*14.5*0.75*kurs)/365); //
 
+Conflict resolved, peace is restored. now world war 3.
         }
     }
 }
