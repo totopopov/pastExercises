@@ -21,7 +21,7 @@ namespace Exam1
             Console.WriteLine("{0:f2}",(workdays*money*14.5*0.75*kurs)/365); //
  
 
-Conflict resolved, peace is restored. now world war 3. Tradegy avoided. branching testing with tortoise. Completed.
+Conflict resolved, peace is restored. now world war 3. Tradegy avoided. branching testing with tortoise. Completed. trying to make some changes.
         }
     }
 }
