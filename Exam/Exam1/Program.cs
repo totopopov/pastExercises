@@ -19,8 +19,8 @@ namespace Exam1
 
 
             Console.WriteLine("{0:f2}",(workdays*money*14.5*0.75*kurs)/365); //
-
-Conflict resolved, peace is restored. now world war 3. May be not. 
+ 
+Conflict resolved, peace is restored. now world war 3. Tradegy avoided. 
         }
     }
 }
