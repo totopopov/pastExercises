@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Exam\Task6\bin\Debug\Task6.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Exam\Task6\bin\Debug\Task6.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Exam\Task6\bin\Debug\Task6.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Exam\Task6\obj\Debug\Task6.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Exam\Task6\obj\Debug\Task6.pdb

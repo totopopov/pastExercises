@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Exam\Exam1\bin\Debug\Exam1.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Exam\Exam1\bin\Debug\Exam1.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Exam\Exam1\bin\Debug\Exam1.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Exam\Exam1\obj\Debug\Exam1.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Exam\Exam1\obj\Debug\Exam1.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Exam\Exam1\obj\Debug\Exam1.pdb

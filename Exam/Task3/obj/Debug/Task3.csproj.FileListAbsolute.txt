@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Exam\Task3\bin\Debug\Task3.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Exam\Task3\bin\Debug\Task3.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Exam\Task3\bin\Debug\Task3.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Exam\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Exam\Task3\obj\Debug\Task3.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Exam\Task3\obj\Debug\Task3.pdb
