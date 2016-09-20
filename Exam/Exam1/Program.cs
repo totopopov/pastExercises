@@ -17,7 +17,7 @@ namespace Exam1
             var kurs = double.Parse(Console.ReadLine());
 
 
-            Console.WriteLine("{0:f2}",(workdays*money*14.5*0.75*kurs)/365);
+            Console.WriteLine("{0:f2}",(workdays*money*14.5*0.75*kurs)/365); additng a conflict here
 
 
         }
